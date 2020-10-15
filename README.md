@@ -1,1 +1,3 @@
-# PRo-C42-Tic-tac-boilerplate-for-student
+# p5.play-boilerplate
+Boiler plate for p5.play
+https://tp-13.github.io/P42/.
